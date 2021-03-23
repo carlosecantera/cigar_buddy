@@ -1,2 +1,1 @@
-# cigar_buddy
-Cigar buddy website project
+[Click here](https://carlosecantera.github.io/cigar_buddy/)
