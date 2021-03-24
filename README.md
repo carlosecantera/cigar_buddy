@@ -1,1 +1,0 @@
-[Click here](https://carlosecantera.github.io/cigar_buddy/)
