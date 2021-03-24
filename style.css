@@ -1,2 +1,15 @@
-#body{background-color: gray:
+body {
+    background-color: antiquewhite;
+}
+title {
+font: bold; font-family: sans-serif; color:black
+}
+header {
+    text-align: center; color:chocolate;}
+li { display: inline; width: 50%;
+    
+}
+img {max-width:90%;}
+p {
+    color: chocolate;
 }
