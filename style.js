@@ -14,7 +14,7 @@ if (parseInt(age) >= 21){
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkisGStP-yj2K-LActZpcqyupiPwbPdziLDg&usqp=CAU"/>
     
     </section>
-    <section><p>If you can't find anyone in your area, how about a remote smoke session?  Not every city will have a plethora of cigar smokers.  Dont let that keep you from making friends!  Try our virtual meet up!</p>
+    <section><p>If you can't find anyone in your area, how about a remote smoke session? <button type="button"> Smoke and Joke Now!</button> Not every city will have a plethora of cigar smokers.  Dont let that keep you from making friends!  Try our virtual meet up!</p>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThE-xCubKP3XJilkFR9O8wjVrYDVDqbCAxTQ&usqp=CAU"/>
     </section>
 </main>`);
@@ -39,3 +39,5 @@ if (parseInt(age) >= 21){
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThE-xCubKP3XJilkFR9O8wjVrYDVDqbCAxTQ&usqp=CAU"/>
         </section>
     </main> */}
+
+   
