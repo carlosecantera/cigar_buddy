@@ -1,6 +1,6 @@
 let userAge = prompt('How old are you?');
 
-funtion getUserAge() {
+function getUserAge() {
     if (parseInt(userAge) >= 21){
     document.write(`
     <section>
